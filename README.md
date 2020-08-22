@@ -10,6 +10,8 @@
 
 * There are data sets we use, notebooks and assignments that we use in each lesson, and you can look at the lessons you want to learn or wonder about.
 
+* The notebooks explained in the course belong to ![Engin Deniz ALPMAN](https://github.com/EnginAlpman).
+
 # Lessons
 
 * Lesson1 : Decision trees
