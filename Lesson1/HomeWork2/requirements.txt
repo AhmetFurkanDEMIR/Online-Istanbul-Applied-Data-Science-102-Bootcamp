@@ -1,0 +1,10 @@
+pandas==1.1.1
+numpy==1.19.1
+seaborn==0.10.1
+matplotlib==3.3.1
+sklearn==0.0
+scipy==1.5.2
+plotnine
+IPython
+pdpbox
+treeinterpreter
