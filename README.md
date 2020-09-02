@@ -15,3 +15,5 @@
 # Lessons
 
 * Lesson1 : Decision trees
+
+* Lesson2 : Deep learning and MNIST dataset
