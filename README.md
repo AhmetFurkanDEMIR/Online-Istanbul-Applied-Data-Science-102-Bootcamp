@@ -12,6 +12,8 @@
 
 * The notebooks explained in the course belong to ![Engin Deniz ALPMAN](https://github.com/EnginAlpman).
 
+* I finished this bootcamp on November 7th.
+
 # Lessons
 
 * Lesson1 : Decision trees
