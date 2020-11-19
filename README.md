@@ -12,7 +12,7 @@
 
 * The notebooks explained in the course belong to ![Engin Deniz ALPMAN](https://github.com/EnginAlpman).
 
-* I finished this bootcamp on November 7th.
+* I finished this bootcamp on November 7th. Certificate link : https://verified.cv/tr/verify/749221565782
 
 # Lessons
 
